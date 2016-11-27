@@ -5,7 +5,11 @@ This project was created with [Create React App](https://github.com/facebookincu
 
 
 To run project use:
+
+
 npm install
+
+
 npm start
 
 
