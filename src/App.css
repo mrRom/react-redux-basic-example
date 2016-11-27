@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.form {
+    text-align: center;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-header {
+    text-align: center;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+}
+
+.form-header-logo {
+    float: left;
+}
+
+.form-header-text {
+    float: left;
+    padding: 7px;
+    font-size: large;
+}
+
+#login {
+    background:url(./assets/img/button.png);
+    background-repeat: no-repeat;
+    width:90px;
+    height:34px;
+    border: 0;
+    border-radius: 100px;
+}
+
+#loginwaiting {
+    background:url(./assets/img/button-waiting.png);
+    background-repeat: no-repeat;
+    width:90px;
+    height:34px;
+    border: 0;
+    border-radius: 100px;
+}
+
+#denied {
+    border-color: red;
+}
